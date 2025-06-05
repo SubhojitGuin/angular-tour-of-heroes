@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/SubhojitGuin/angular-tour-of-heroes/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/SubhojitGuin/angular-tour-of-heroes/actions/workflows/pages/pages-build-deployment)
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
